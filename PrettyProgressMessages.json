@@ -1,0 +1,42 @@
+[
+  {
+    "id": "alertiOS18-9",
+    "appVersions": ["1.10.5", "1.11.3", "1.11.4", "1.11.5", "1.12.6", "1.12.7", "1.12.11", "1.13.1", "1.14.0", "1.14.1", "1.14.2", "1.13.2", "1.15.5", "1.16.0", "1.16.1", "1.16.2", "1.17.0", "1.17.1", "1.17.2", "1.17.3", "1.17.4", "1.17.5", "1.18.0", "1.18.1", "1.18.2", "1.18.3", "1.18.4", "1.18.5", "1.18.6", "1.18.7", "1.18.8", "1.18.9", "1.18.10", "1.18.11", "1.18.12", "1.18.13", "1.18.14", "1.18.15", "1.19.0", "1.19.1", "1.19.2", "1.19.3", "1.19.4", "1.19.5", "1.19.6", "1.19.7", "1.19.8", "1.19.9", "1.19.10", "1.19.11", "1.19.12"],
+    "osVersions": ["18.4.0", "18.4.1", "18.4.2"],
+    "entitlements": ["all"],
+    "titleLocalisations": [
+      ["en", "Update app to the latest version"],
+      ["es", "Actualiza tu app a la última versión"],
+      ["it", "Aggiorna la tua app all'ultima versione"],
+      ["fr", "Mettez à jour votre application vers la dernière version"],
+      ["de", "Aktualisiere deine App auf die neueste Version"],
+      ["ru", "Обновите приложение до последней версии"],
+      ["ko", "앱을 최신 버전으로 업데이트하세요"],
+      ["zh-Hans", "将您的应用更新至最新版本"],
+      ["zh-Hant", "將您的應用程式更新至最新版本"],
+      ["pl", "Zaktualizuj aplikację do najnowszej wersji"],
+      ["th", "อัปเดตแอปเป็นเวอร์ชันล่าสุด"],
+      ["pt-BR", "Atualize o app para a versão mais recente"],
+      ["id", "Perbarui aplikasi ke versi terbaru"],
+      ["ja", "アプリを最新バージョンに更新してください"]
+    ],
+    "messageLocalisations": [
+      ["en", "iOS 18.4.0 has introduced some issues fixed in the latest app version. Please, kindly update for a better experience."],
+      ["es", "iOS 18.4.0 introdujo algunos problemas que se han corregido en la última versión de la app. Por favor, actualiza para una mejor experiencia."],
+      ["it", "iOS 18.4.0 ha introdotto alcuni problemi risolti nell'ultima versione dell'app. Ti preghiamo di aggiornare per un'esperienza migliore."],
+      ["fr", "iOS 18.4.0 a introduit des problèmes corrigés dans la dernière version de l'application. Veuillez mettre à jour pour une meilleure expérience."],
+      ["de", "iOS 18.4.0 hat einige Probleme verursacht, die in der neuesten App-Version behoben wurden. Bitte aktualisiere für ein besseres Erlebnis."],
+      ["ru", "iOS 18.4.0 вызвала некоторые проблемы, которые были исправлены в последней версии приложения. Пожалуйста, обновите для лучшего опыта."],
+      ["ko", "iOS 18.4.0에서 발생한 문제가 최신 앱 버전에서 수정되었습니다. 더 나은 사용을 위해 업데이트해 주세요."],
+      ["zh-Hans", "iOS 18.4.0 引入的问题已在最新版本中修复。请更新以获得更好的体验。"],
+      ["zh-Hant", "iOS 18.4.0 引入的問題已在最新版本中修復。請更新以獲得更好的體驗。"],
+      ["pl", "iOS 18.4.0 spowodował problemy, które naprawiono w najnowszej wersji aplikacji. Zaktualizuj ją, aby zapewnić lepsze działanie."],
+      ["th", "iOS 18.4.0 ทำให้เกิดปัญหาบางอย่าง ซึ่งได้รับการแก้ไขแล้วในแอปเวอร์ชันล่าสุด โปรดอัปเดตเพื่อการใช้งานที่ดียิ่งขึ้น"],
+      ["pt-BR", "O iOS 18.4.0 causou alguns problemas que foram corrigidos na versão mais recente do app. Atualize para uma melhor experiência."],
+      ["id", "iOS 18.4.0 menyebabkan beberapa masalah yang telah diperbaiki di versi aplikasi terbaru. Silakan perbarui untuk pengalaman yang lebih baik."],
+      ["ja", "iOS 18.4.0で発生した問題は、アプリの最新バージョンで修正されています。より快適にご利用いただくため、アップデートしてください。"]
+    ],
+    "image": "exclamationmark.triangle.fill",
+    "type": "alert"
+  }
+]
